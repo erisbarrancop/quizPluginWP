@@ -12,6 +12,9 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "@wordpress/scripts": "^15.0.1"
+    "@wordpress/scripts": "^30.5.0"
+  },
+  "dependencies": {
+    "react-color": "^2.19.3"
   }
 }
